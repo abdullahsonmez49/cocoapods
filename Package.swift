@@ -22,7 +22,7 @@ let package = Package(
         .target(
             name: "iubenda",
             path: "iubenda.xcframework",
-            publicHeadersPath: "."
+            publicHeadersPath: "include"
         ),
     ]
 )
