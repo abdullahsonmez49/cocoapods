@@ -12,6 +12,10 @@
 		<data>
 		XMHqJuAKfdCtmb9AJPNZkVotr3w=
 		</data>
+		<key>Localizable.strings</key>
+		<data>
+		YAEit8gbNvoP6d0uIHgbT/XYNIc=
+		</data>
 		<key>Modules/iubenda.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		aoMoUINYcm1FPWG9NdOCLqJw4Vc=
@@ -56,24 +60,6 @@
 		<data>
 		kqoNBukPU39zeEcwhNZL3LSTjZ0=
 		</data>
-		<key>en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YAEit8gbNvoP6d0uIHgbT/XYNIc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1F7ookONuHRdV5Zhyu3u6RrTFo4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>javascript.js</key>
 		<data>
 		q8CzgoCUHhzHChKHEqahaWvAs1E=
@@ -90,6 +76,17 @@
 			<key>hash2</key>
 			<data>
 			ezsCSmgXguLFJI7yIqNgt4yJqxYgwmxPz/unq9rcL08=
+			</data>
+		</dict>
+		<key>Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YAEit8gbNvoP6d0uIHgbT/XYNIc=
+			</data>
+			<key>hash2</key>
+			<data>
+			4cJeSG5QGth/s2ZpY7m1uyLDulKUDbGjecENJlNclRY=
 			</data>
 		</dict>
 		<key>Modules/iubenda.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -212,32 +209,6 @@
 			<data>
 			pYQexcukZ2RK5z1s2zbjIIM4kqprg9qfEouPvdAJHB4=
 			</data>
-		</dict>
-		<key>en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YAEit8gbNvoP6d0uIHgbT/XYNIc=
-			</data>
-			<key>hash2</key>
-			<data>
-			4cJeSG5QGth/s2ZpY7m1uyLDulKUDbGjecENJlNclRY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1F7ookONuHRdV5Zhyu3u6RrTFo4=
-			</data>
-			<key>hash2</key>
-			<data>
-			KI3Un+snK7ytfNKLVaDHYhYs55JK1CNWjDoeWZYO9WY=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>javascript.js</key>
 		<dict>
