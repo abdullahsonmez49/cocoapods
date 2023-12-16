@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "sdk",
+    name: "iubenda",
     defaultLocalization: "en",
     platforms: [
               .iOS(.v12), // or the appropriate platform
