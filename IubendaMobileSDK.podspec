@@ -11,5 +11,4 @@ Pod::Spec.new do |s|
     s.swift_version = '5'
     s.ios.deployment_target  = '10.0'
     s.tvos.deployment_target  = '10.0'
-    s.source_files = "sdk/**/*.{h,m,swift}"
 end
