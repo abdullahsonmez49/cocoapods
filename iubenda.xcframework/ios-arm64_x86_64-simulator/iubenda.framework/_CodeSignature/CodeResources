@@ -65,15 +65,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1F7ookONuHRdV5Zhyu3u6RrTFo4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>javascript.js</key>
 		<data>
 		q8CzgoCUHhzHChKHEqahaWvAs1E=
@@ -170,15 +161,6 @@
 			<key>hash2</key>
 			<data>
 			4cJeSG5QGth/s2ZpY7m1uyLDulKUDbGjecENJlNclRY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KI3Un+snK7ytfNKLVaDHYhYs55JK1CNWjDoeWZYO9WY=
 			</data>
 			<key>optional</key>
 			<true/>
